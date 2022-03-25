@@ -10,4 +10,4 @@ Projeto simples de machine learning que usa regressão linear para prever dados 
 
 https://www.kaggle.com/datasets/aramacus/electricity-demand-in-victoria-australia
 
-- Dados de preço diário, demanda e dados meteorológicos do segundo maior estado da Austrália
+- Dados de preço diário, demanda e meteorológicos do segundo maior estado da Austrália
